@@ -1,0 +1,141 @@
+1693477555052	geckodriver	INFO	Listening on 127.0.0.1:63002
+1693477558081	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63003" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofiley61Oqy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693477558446	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693477558585	Marionette	INFO	Listening on port 63011
+WebDriver BiDi listening on ws://127.0.0.1:63003
+Read port: 63011
+1693477558797	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63003/devtools/browser/631eefa2-0800-4ac2-b331-99ef9bd1a348
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+1693477577680	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26085: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26085: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26085: ReferenceError: tot_bill_amount_edit is not defined
+1693478115472	Marionette	INFO	Stopped listening on port 63011693478117239	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63309" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileyV3rqB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693478117657	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693478117867	Marionette	INFO	Listening on port 63317
+WebDriver BiDi listening on ws://127.0.0.1:63309
+Read port: 63317
+1693478118100	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63309/devtools/browser/812d102b-414c-4135-957d-2dd76b11e911
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+1693478138157	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+send@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:10:14953
+ajax@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:10:10712
+getRateData@https://retail.logimaxindia.com/etail_v3/admin/assets/js/dashboard.js:638:4
+@https://retail.logimaxindia.com/etail_v3/admin/assets/js/dashboard.js:616:10
+j@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:26925
+fireWith@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:27738
+ready@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:29532
+I@https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/jQuery/jQuery-2.1.4.min.js:4:29723
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26085: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26085: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26085: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26085: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+1693478607200	geckodriver	INFO	Listening on 127.0.0.1:63405
+1693478610267	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63406" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Dell\\AppData\\Local\\Temp\\rust_mozprofileSOzVHS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693478610569	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693478610698	Marionette	INFO	Listening on port 63415
+WebDriver BiDi listening on ws://127.0.0.1:63406
+Read port: 63415
+1693478610857	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63406/devtools/browser/18fa33e5-c674-4ef1-bfa8-4d42971edaf1
+JavaScript error: https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151604, line 1: f: OneSignal: This app ID does not match any existing app. Double check your app ID.
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://retail.logimaxindia.com."
+1693478629540	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/morris/morris.min.js, line 16: Error: Graph container element not found
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26085: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26085: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26045: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/js/ret_billing.js?v=1.39, line 26085: ReferenceError: tot_bill_amount_edit is not defined
+JavaScript error: https://retail.logimaxindia.com/etail_v3/admin/assets/plugins/select2/select2.full.min.js, line 5: TypeError: d is undefined
